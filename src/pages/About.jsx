@@ -17,7 +17,7 @@ const About = () => {
                             <div className="breadcrumb-inner text-center">
                                 <h1 className="title split-collab">About Me</h1>
                                 <ul className="page-list">
-                                    <li className="tmp-breadcrumb-item"><link to="/" />Home</li>
+                                    <li className="tmp-breadcrumb-item"><Link to="/">Home</Link></li>
                                     <li className="icon"><i className="fa-solid fa-angle-right" /></li>
                                     <li className="tmp-breadcrumb-item active">About Me</li>
                                 </ul>
