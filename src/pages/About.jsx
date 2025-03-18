@@ -3,7 +3,7 @@ import Header from '../components/header'
 import { Link } from 'react-router-dom'
 import CustomLine from '../assets/images/custom-line/custom-line.png'
 import ExpertImgTwo from '../assets/images/experiences/expert-img-two.jpg'
-import Footer from '../components/footer'
+import Footer from '../components/Footer'
 
 const About = () => {
     return (

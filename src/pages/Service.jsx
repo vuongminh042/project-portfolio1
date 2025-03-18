@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from '../components/header'
 import { Link } from 'react-router-dom'
-import Footer from '../components/footer'
+import Footer from '../components/Footer'
 
 const Service = () => {
     return (

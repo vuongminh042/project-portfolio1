@@ -21,7 +21,7 @@ import QuoteIcon from '../assets/images/icons/quote.svg'
 import BlogImg4 from '../assets/images/blog/blog-img-4.jpg'
 import BlogImg5 from '../assets/images/blog/blog-img-5.jpg'
 import BlogImg6 from '../assets/images/blog/blog-img-6.jpg'
-import Footer from '../components/footer'
+import Footer from '../components/Footer'
 
 const Home = () => {
   return (
