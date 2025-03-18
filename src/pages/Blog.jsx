@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from '../components/header'
+import Header from '../components/Header'
 import { Link } from 'react-router-dom'
 import BlogClassicCardImg1 from '../assets/images/blog/blog-classic-card-img-1.jpg'
 import BlogClassicCardImg2 from '../assets/images/blog/blog-classic-card-img-2.jpg'

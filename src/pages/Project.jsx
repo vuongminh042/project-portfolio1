@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from '../components/header'
+import Header from '../components/Header'
 import { Link } from 'react-router-dom'
 import TabImage4 from '../assets/images/latest-portfolio/tab-image-4.png'
 import TabImage5 from '../assets/images/latest-portfolio/tab-image-5.png'

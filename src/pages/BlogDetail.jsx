@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from '../components/header'
+import Header from '../components/Header'
 import { Link } from 'react-router-dom'
 import BlogDetail1 from '../assets/images/blog/details/01.png'
 import BlogDetailsSwiperImg from '../assets/images/blog/blog-details-swiper-img.jpg'
@@ -9,6 +9,7 @@ import SinglePostCardImg1 from '../assets/images/blog/single-post-card-img-1.png
 import SinglePostCardImg2 from '../assets/images/blog/single-post-card-img-2.png'
 import SinglePostCardImg3 from '../assets/images/blog/single-post-card-img-3.png'
 import AboutMeUserImg from '../assets/images/blog/about-me-user-img.png'
+import Footer from '../components/Footer'
 
 const BlogDetail = () => {
     return (
@@ -409,6 +410,8 @@ const BlogDetail = () => {
                     </div>
                 </div>
             </div>
+
+            <Footer />
 
         </>
     )

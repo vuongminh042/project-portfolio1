@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from '../components/header'
+import Header from '../components/Header'
 import { Link } from 'react-router-dom'
 import CustomLine from '../assets/images/custom-line/custom-line.png'
 import ExpertImgTwo from '../assets/images/experiences/expert-img-two.jpg'

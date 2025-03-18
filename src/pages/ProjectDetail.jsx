@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from '../components/header'
+import Header from '../components/Header'
 import { Link } from 'react-router-dom'
 import ThumnailImg from '../assets/images/projects-details/thumnail-img.png'
 import ProjectDetialsSwiperImg1 from '../assets/images/projects-details/project-detials-swiper-img-1.jpg'

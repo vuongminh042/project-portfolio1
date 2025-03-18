@@ -1,6 +1,6 @@
 import React from 'react'
-import Header from '../components/header'
-import Banner from '../components/banner'
+import Header from '../components/Header'
+import Banner from '../components/Banner'
 import { Link } from 'react-router-dom'
 import LatestServiceUserImgTwo from '../assets/images/services/latest-services-user-image-two.png'
 import CustomLine from '../assets/images/custom-line/custom-line.png'
